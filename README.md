@@ -1,5 +1,5 @@
 # Thesis-Code
-The repository is for thesis code that I have made. The topic is 'An Artificial Neural Network-Based Method for the Container Relocation Problem'. Feel free to read the whole thesis: http://etd.ndhu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=ovrEHS/record?r1=1&h1=1
+The repository is for thesis code that I have made. The topic is 'An Artificial Neural Network-Based Method for the Container Relocation Problem'. Feel free to read the whole thesis: http://etd.ndhu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=yGkIzS/record?r1=1&h1=0
 
 There are 3 parts of code in my thesis. First part is generating dataset for training Artificial Neural Network (ANN). Second part is the code of ANN. Including forward propagation, back propagation, and other optimizers for training ANN. I don't use testing set to evaluate the performance of ANN. Thus, the last part is verifying the performance of ANN.  
 
