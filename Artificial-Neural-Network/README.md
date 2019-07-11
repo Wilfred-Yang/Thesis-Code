@@ -1,3 +1,1 @@
-
-The sample code of ANN shows the architecture of ANN. There are three archives that the output-data is created through different heuristics.
-But the architecture of ANN is the same.
+Here is a ANN sample. Dataset of 4-row, 6-column, 10-container, 1-deadlock bay configuration are applied. This sample learn to imitate Min-Max heuristic.   
