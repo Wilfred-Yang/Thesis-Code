@@ -6,5 +6,9 @@ heuristics. 'Verify-Better-of-Two' is for verifying Better-of-Two heuristic. 'Ve
 'Verify-Min-Max' is for verifying Min-Max heuristic. These three programs test the average reshuffles between ANN-based systems and original
 heuristics. 
 
+The file of one million bay configuration is too large to upload on Github. Here is the link og google drive:
+https://drive.google.com/open?id=1pr7uWw1da-yaKkAFX-AGZUOS1mNxHsD9
+
 'Further test' program check each reshuffles of 1 million bay configuration and compare with the ANN-based systems. The objective of this
 program is to check the performance of ANN-based system on each bay configuration. Some of them may be better, and some of them may be worse.
+
