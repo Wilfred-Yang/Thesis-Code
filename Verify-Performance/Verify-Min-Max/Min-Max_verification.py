@@ -416,11 +416,7 @@ with open('result_ML_min_max.pickle','wb') as file:
     pickle.dump(dataset_movement, file)
 
 
-# after debug
-#26929728
-#26.929728
-#6172.909444093704
-#error = 9088
+
 
 #error = 9081
 #26928943
