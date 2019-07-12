@@ -712,13 +712,7 @@ with open('combined_ML.pickle', 'wb') as file:
 
 end = time.time()
 print(end - start)
-
-                
-#error_MM = 600 
-#error_LA = 11370
-#26967150
-#26.96715
-#10156.511909723282
+          
         
 #error_MM = 599
 #error_LA = 11361
