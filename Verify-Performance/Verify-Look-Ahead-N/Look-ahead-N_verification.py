@@ -498,10 +498,6 @@ with open('LA_N_ML.pickle', 'wb') as file:
 end = time.time()
 print(end - start)                    
                             
-#27009937
-#27.009937
-#error = 15837
-#6341.0865483284
 
 #After debug              
 #27009353
